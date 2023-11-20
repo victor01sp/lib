@@ -1,0 +1,31 @@
+.div_1N2Xi0S4ana9y95 {
+  position: fixed;
+  inset: 0;
+  bottom: initial;
+  height: 0;
+  z-index: 999;
+
+  padding: 15px;
+  gap: 15px;
+
+  display: grid;
+  justify-items: center;
+
+  pointer-events: none;
+}
+
+.div_3897A2mOM93uOdP {
+  background: #28A745; 
+  color: #ffffff;
+  word-break: break-word;
+
+  width: min(100%, 450px);
+  height: 60px;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+
+  pointer-events: initial;
+}
